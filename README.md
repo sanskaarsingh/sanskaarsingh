@@ -63,7 +63,7 @@
 ### 🎮 Dev Dashboard
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/sanskaarsingh?template=classic&config.timezone=Asia%2FCalcutta" />
+  <img src="https://github.com/sanskaarsingh/sanskaarsingh/blob/main/metrics.svg" />
 </p>
 
 <p align="center">
