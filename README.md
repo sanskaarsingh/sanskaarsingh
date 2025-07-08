@@ -68,4 +68,11 @@
 
 <p align="center"><i>Type: > echo "Commits in progress..."</i></p>
 
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanskaarsingh/sanskaarsingh/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/sanskaarsingh/sanskaarsingh/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
