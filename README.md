@@ -63,7 +63,7 @@
 ### 🎮 Dev Dashboard
 
 <p align="center">
-  <img src="https://github.com/sanskaarsingh/sanskaarsingh/blob/main/metrics.svg" />
+  <img src="https://raw.githubusercontent.com/sanskaarsingh/sanskaarsingh/main/metrics.svg" />
 </p>
 
 <p align="center">
