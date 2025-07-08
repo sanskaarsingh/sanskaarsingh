@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4C400&center=true&vCenter=true&width=435&lines=Parivartan+hi+neeyam+hai)](https://git.io/typing-svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4C400&center=true&vCenter=true&width=435&lines=Parivartan+hi+neeyam+hai" />
 </h1>
 
 <p align="center">
