@@ -60,15 +60,14 @@
 
 ---
 
-### 🧬 Terminal Log
+### 🖥️ Hacking Console
 
-<pre>
-<code>
-> Initializing profile...
-> Loading animation protocols...
-> Fetching AI toolchain...
-> Injecting dark matter...
-> Launching @sanskaarsingh's multiverse 👾
-</code>
-</pre>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKOhsz8QeFQZAvC/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <i>Type: > echo "Commits in progress..."</i>
+</p>
+
 
