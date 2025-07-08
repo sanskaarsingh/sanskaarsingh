@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJpYXVlemhmdzlrb3c3cTFoZWR4enRmdHVxbmh5eTJpMHRqdzZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="1000"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJpYXVlemhmdzlrb3c3cTFoZWR4enRmdHVxbmh5eTJpMHRqdzZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="750"/>
 </p>
 
 ---
@@ -53,17 +53,27 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
   <br><br>
   <i>“Code is the closest thing we have to magic.”</i>
 </p>
 
 ---
 
+### 🎮 Dev Dashboard
+
+![Metrics](https://metrics.lecoq.io/sanskaarsingh?template=classic&config.timezone=Asia%2FCalcutta)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskaarsingh&layout=compact&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=sanskaarsingh&color=blue&style=flat)
+
+![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 ### 🖥️ Exit Terminal
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZseDV5OGR1aW51cDFhdzdkM253YTE0MGUzNGVlc3dpNXd0bGhjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AN1PDRBEYabHW/giphy.gif" width="1000"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZseDV5OGR1aW51cDFhdzdkM253YTE0MGUzNGVlc3dpNXd0bGhjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AN1PDRBEYabHW/giphy.gif" width="750"/>
 </p>
 
 <p align="center"><i>Type: > echo "Commits in progress..."</i></p>
