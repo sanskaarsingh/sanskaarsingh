@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Currently Brewing
+### 🛠️ Cooking
 
 > ⚙️ Building an AI-powered Nutrition Tracker 🤖🥦  
 > 🧠 Hacking Time-series Forecasting ⏱️📊  
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛸 My Digital Warpzone
+### 🛸 Real Sauce
 
 <p align="center">
   <a href="https://www.notion.so/Sanskar-Singh-22159ebd60da802ba710c0daf81a312b" target="_blank">
@@ -60,7 +60,7 @@
 
 ---
 
-### 🖥️ Sacue Terminal
+### 🖥️ Juice Terminal
 
 <p align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="500"/>
