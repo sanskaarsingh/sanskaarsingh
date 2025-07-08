@@ -14,7 +14,7 @@
 > I bend APIs and summon futuristic dashboards with dark magic.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,fastapi,tailwind,postgres,aws,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,r,python,java,js,ts,html,css,react,nextjs,nodejs,express,mysql,postgres,mongodb,fastapi,django,flask,tailwind,bootstrap,git,github,linux,bash,aws,azure,vscode,figma&theme=dark" />
 </p>
 
 ---
