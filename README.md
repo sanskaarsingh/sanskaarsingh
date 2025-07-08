@@ -63,11 +63,9 @@
 ### 🖥️ Hacking Console
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKOhsz8QeFQZAvC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="500"/>
 </p>
 
-<p align="center">
-  <i>Type: > echo "Commits in progress..."</i>
-</p>
+<p align="center"><i>Type: > echo "Commits in progress..."</i></p>
 
 
