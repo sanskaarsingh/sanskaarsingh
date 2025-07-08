@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=40&center=true&vCenter=true&lines=Welcome+to+My+Universe;AI-powered+Builder;Coder+of+Dark+Energy" />
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4C400&width=435&lines=Parivartan+hi+neeyam+hai)](https://git.io/typing-svg)" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-> I am a full-stack sorcerer 👨‍💻 who conjures code at midnight 🌙  
+> Self taught full stack developer who loves data.  
 > I bend APIs and summon futuristic dashboards with dark magic.
 
 <p align="center">
