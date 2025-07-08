@@ -63,7 +63,7 @@
 ### 🖥️ Juice Terminal
 
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="500"/>
+  <img src="https://giphy.com/gifs/vintage-cinema-credits-AN1PDRBEYabHW" width="500"/>
 </p>
 
 <p align="center"><i>Type: > echo "Commits in progress..."</i></p>
