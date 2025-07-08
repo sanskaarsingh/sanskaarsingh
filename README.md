@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV1d2l2amR1aDhhOXJ5dm1sYXJ0N216anM3cHdqdzVseTFvZ2NoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDyxouSEfhOs9i4oru/giphy.gif" width="50"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 ---
 
-### 🖥️ Juice Terminal
+### 🖥️ Exit Terminal
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZseDV5OGR1aW51cDFhdzdkM253YTE0MGUzNGVlc3dpNXd0bGhjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AN1PDRBEYabHW/giphy.gif" width="500"/>
